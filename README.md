@@ -14,4 +14,4 @@ How students should submit solutions
 6. Implement your fixes and solutions inside your copied folder only. Add your own python files to perhaps showcase something that you have learned
 7. Commit your changes, push the branch, and open a PR against the upstream repository. Format of PR is provided to you in repo as well.
 
-Have fun learning!
+Have fun learning! blah blah blah
