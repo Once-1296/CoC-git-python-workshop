@@ -1,11 +1,10 @@
 📘 README.md
-
+1
 # CoC Python Workshop
+djfjlskdzfhklszddzv'zdf
+Welcome to the CoC Python Workshop repositz
 
-Welcome to the CoC Python Workshop repository! 🚀
-
-
-This repository is designed to help students practice Python after learning the fundamentals, through tutorials, hands-on exercises, and debugging challenges.
+This repository is designed to help students practice Python after learning the fundamentals, through tutorials, hands-on esfsojfoisxercises, and debugging challenges.
 
 ## 📂 Repository Structure
 
