@@ -1,5 +1,7 @@
 📘 README.md
 
+# PLEASE READ THE [CONRIBUTING.MD](./CONTRIBUTING.md) BEFORE MAKING PR
+
 # CoC Python Workshop
 
 Welcome to the CoC Python Workshop repository! 🚀

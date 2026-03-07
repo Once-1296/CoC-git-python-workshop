@@ -18,7 +18,7 @@ def caesar_encrypt(text: str, shift: int) -> str:
 # Caesar decrypt
 def caesar_decrypt(text: str, shift: int) -> str:
     """Return Caesar-decrypted text."""
-    return "".join(_shift_char(ch, shift) for ch in text)  # hint: decryption sign is reversed, should be shift
+    return "".join(_shift_char(ch, -shift) for ch in text)  # hint: decryption sign is reversed, should be shift
 
 
 # Vigenere encrypt
