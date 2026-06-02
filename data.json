@@ -15,7 +15,7 @@
                 "prsMerged": 17
             },
             "3m": {
-                "commits": 162,
+                "commits": 160,
                 "prsOpened": 12,
                 "prsMerged": 12
             }
@@ -522,8 +522,8 @@
             },
             "3m": {
                 "commits": 1,
-                "prsOpened": 5,
-                "prsMerged": 5
+                "prsOpened": 4,
+                "prsMerged": 4
             }
         }
     },
@@ -622,17 +622,17 @@
         "stats": {
             "all": {
                 "commits": 5,
-                "prsOpened": 3,
+                "prsOpened": 4,
                 "prsMerged": 1
             },
             "6m": {
                 "commits": 5,
-                "prsOpened": 3,
+                "prsOpened": 4,
                 "prsMerged": 1
             },
             "3m": {
                 "commits": 5,
-                "prsOpened": 3,
+                "prsOpened": 4,
                 "prsMerged": 1
             }
         }
@@ -807,7 +807,7 @@
                 "prsMerged": 0
             },
             "3m": {
-                "commits": 3,
+                "commits": 0,
                 "prsOpened": 0,
                 "prsMerged": 0
             }
@@ -849,6 +849,28 @@
                 "commits": 12,
                 "prsOpened": 16,
                 "prsMerged": 12
+            },
+            "3m": {
+                "commits": 0,
+                "prsOpened": 1,
+                "prsMerged": 0
+            }
+        }
+    },
+    {
+        "login": "jaanya0502-glitch",
+        "avatar_url": "https://avatars.githubusercontent.com/u/263654403?v=4",
+        "role": "contributor",
+        "stats": {
+            "all": {
+                "commits": 0,
+                "prsOpened": 1,
+                "prsMerged": 0
+            },
+            "6m": {
+                "commits": 0,
+                "prsOpened": 1,
+                "prsMerged": 0
             },
             "3m": {
                 "commits": 0,
@@ -1072,8 +1094,8 @@
             },
             "3m": {
                 "commits": 0,
-                "prsOpened": 4,
-                "prsMerged": 1
+                "prsOpened": 2,
+                "prsMerged": 0
             }
         }
     }
