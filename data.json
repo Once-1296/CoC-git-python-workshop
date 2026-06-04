@@ -15,7 +15,7 @@
                 "prsMerged": 17
             },
             "3m": {
-                "commits": 166,
+                "commits": 165,
                 "prsOpened": 12,
                 "prsMerged": 12
             }
@@ -226,17 +226,17 @@
         "stats": {
             "all": {
                 "commits": 1,
-                "prsOpened": 1,
+                "prsOpened": 2,
                 "prsMerged": 1
             },
             "6m": {
                 "commits": 1,
-                "prsOpened": 1,
+                "prsOpened": 2,
                 "prsMerged": 1
             },
             "3m": {
                 "commits": 1,
-                "prsOpened": 1,
+                "prsOpened": 2,
                 "prsMerged": 1
             }
         }
