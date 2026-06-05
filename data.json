@@ -235,7 +235,7 @@
                 "prsMerged": 2
             },
             "3m": {
-                "commits": 14,
+                "commits": 12,
                 "prsOpened": 3,
                 "prsMerged": 2
             }
@@ -610,7 +610,7 @@
             },
             "3m": {
                 "commits": 8,
-                "prsOpened": 4,
+                "prsOpened": 3,
                 "prsMerged": 3
             }
         }
@@ -858,6 +858,28 @@
         }
     },
     {
+        "login": "paramgosar13-droid",
+        "avatar_url": "https://avatars.githubusercontent.com/u/260283594?v=4",
+        "role": "contributor",
+        "stats": {
+            "all": {
+                "commits": 0,
+                "prsOpened": 7,
+                "prsMerged": 4
+            },
+            "6m": {
+                "commits": 0,
+                "prsOpened": 7,
+                "prsMerged": 4
+            },
+            "3m": {
+                "commits": 0,
+                "prsOpened": 7,
+                "prsMerged": 4
+            }
+        }
+    },
+    {
         "login": "jaanya0502-glitch",
         "avatar_url": "https://avatars.githubusercontent.com/u/263654403?v=4",
         "role": "contributor",
@@ -876,28 +898,6 @@
                 "commits": 0,
                 "prsOpened": 3,
                 "prsMerged": 1
-            }
-        }
-    },
-    {
-        "login": "paramgosar13-droid",
-        "avatar_url": "https://avatars.githubusercontent.com/u/260283594?v=4",
-        "role": "contributor",
-        "stats": {
-            "all": {
-                "commits": 0,
-                "prsOpened": 6,
-                "prsMerged": 4
-            },
-            "6m": {
-                "commits": 0,
-                "prsOpened": 6,
-                "prsMerged": 4
-            },
-            "3m": {
-                "commits": 0,
-                "prsOpened": 6,
-                "prsMerged": 4
             }
         }
     },
