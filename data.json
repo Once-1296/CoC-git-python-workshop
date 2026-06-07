@@ -59,7 +59,7 @@
                 "prsMerged": 17
             },
             "3m": {
-                "commits": 166,
+                "commits": 163,
                 "prsOpened": 11,
                 "prsMerged": 11
             }
@@ -170,7 +170,7 @@
             },
             "3m": {
                 "commits": 9,
-                "prsOpened": 4,
+                "prsOpened": 3,
                 "prsMerged": 3
             }
         }
@@ -499,9 +499,9 @@
                 "prsMerged": 4
             },
             "3m": {
-                "commits": 16,
+                "commits": 12,
                 "prsOpened": 2,
-                "prsMerged": 3
+                "prsMerged": 2
             }
         }
     },
@@ -675,9 +675,9 @@
                 "prsMerged": 3
             },
             "3m": {
-                "commits": 7,
-                "prsOpened": 3,
-                "prsMerged": 3
+                "commits": 4,
+                "prsOpened": 1,
+                "prsMerged": 2
             }
         }
     },
@@ -741,7 +741,7 @@
                 "prsMerged": 1
             },
             "3m": {
-                "commits": 2,
+                "commits": 1,
                 "prsOpened": 1,
                 "prsMerged": 1
             }
@@ -763,8 +763,8 @@
                 "prsMerged": 1
             },
             "3m": {
-                "commits": 1,
-                "prsOpened": 2,
+                "commits": 0,
+                "prsOpened": 0,
                 "prsMerged": 1
             }
         }
@@ -1028,7 +1028,7 @@
             },
             "3m": {
                 "commits": 0,
-                "prsOpened": 1,
+                "prsOpened": 0,
                 "prsMerged": 0
             }
         }
