@@ -59,7 +59,7 @@
                 "prsMerged": 17
             },
             "3m": {
-                "commits": 163,
+                "commits": 157,
                 "prsOpened": 11,
                 "prsMerged": 11
             }
@@ -566,8 +566,8 @@
             },
             "3m": {
                 "commits": 1,
-                "prsOpened": 4,
-                "prsMerged": 4
+                "prsOpened": 3,
+                "prsMerged": 3
             }
         }
     },
@@ -677,7 +677,7 @@
             "3m": {
                 "commits": 4,
                 "prsOpened": 1,
-                "prsMerged": 2
+                "prsMerged": 1
             }
         }
     },
@@ -765,7 +765,7 @@
             "3m": {
                 "commits": 0,
                 "prsOpened": 0,
-                "prsMerged": 1
+                "prsMerged": 0
             }
         }
     },
