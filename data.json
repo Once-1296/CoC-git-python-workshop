@@ -59,7 +59,7 @@
                 "prsMerged": 17
             },
             "3m": {
-                "commits": 94,
+                "commits": 88,
                 "prsOpened": 2,
                 "prsMerged": 2
             }
@@ -125,7 +125,7 @@
                 "prsMerged": 2
             },
             "3m": {
-                "commits": 7,
+                "commits": 5,
                 "prsOpened": 2,
                 "prsMerged": 1
             }
@@ -169,8 +169,8 @@
                 "prsMerged": 3
             },
             "3m": {
-                "commits": 6,
-                "prsOpened": 2,
+                "commits": 5,
+                "prsOpened": 1,
                 "prsMerged": 2
             }
         }
@@ -280,8 +280,8 @@
             },
             "3m": {
                 "commits": 4,
-                "prsOpened": 5,
-                "prsMerged": 4
+                "prsOpened": 4,
+                "prsMerged": 3
             }
         }
     },
@@ -433,9 +433,9 @@
                 "prsMerged": 4
             },
             "3m": {
-                "commits": 4,
+                "commits": 1,
                 "prsOpened": 1,
-                "prsMerged": 2
+                "prsMerged": 1
             }
         }
     },
@@ -609,7 +609,7 @@
                 "prsMerged": 1
             },
             "3m": {
-                "commits": 4,
+                "commits": 2,
                 "prsOpened": 1,
                 "prsMerged": 1
             }
@@ -699,7 +699,7 @@
             "3m": {
                 "commits": 0,
                 "prsOpened": 1,
-                "prsMerged": 1
+                "prsMerged": 0
             }
         }
     },
@@ -770,7 +770,7 @@
         }
     },
     {
-        "login": "atharvsalunkejee1267-wq",
+        "login": "atharvasalunke1267",
         "avatar_url": "https://avatars.githubusercontent.com/u/245171056?v=4",
         "role": "contributor",
         "stats": {
