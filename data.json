@@ -15,8 +15,8 @@
                 "prsMerged": 1
             },
             "3m": {
-                "commits": 2,
-                "prsOpened": 1,
+                "commits": 1,
+                "prsOpened": 0,
                 "prsMerged": 0
             }
         }
@@ -59,7 +59,7 @@
                 "prsMerged": 17
             },
             "3m": {
-                "commits": 88,
+                "commits": 85,
                 "prsOpened": 2,
                 "prsMerged": 2
             }
@@ -81,9 +81,9 @@
                 "prsMerged": 2
             },
             "3m": {
-                "commits": 2,
+                "commits": 1,
                 "prsOpened": 1,
-                "prsMerged": 2
+                "prsMerged": 1
             }
         }
     },
@@ -125,7 +125,7 @@
                 "prsMerged": 2
             },
             "3m": {
-                "commits": 5,
+                "commits": 4,
                 "prsOpened": 2,
                 "prsMerged": 1
             }
@@ -389,9 +389,9 @@
                 "prsMerged": 4
             },
             "3m": {
-                "commits": 3,
-                "prsOpened": 2,
-                "prsMerged": 2
+                "commits": 1,
+                "prsOpened": 1,
+                "prsMerged": 1
             }
         }
     },
@@ -521,8 +521,8 @@
                 "prsMerged": 5
             },
             "3m": {
-                "commits": 6,
-                "prsOpened": 4,
+                "commits": 4,
+                "prsOpened": 3,
                 "prsMerged": 3
             }
         }
@@ -566,7 +566,7 @@
             },
             "3m": {
                 "commits": 1,
-                "prsOpened": 3,
+                "prsOpened": 2,
                 "prsMerged": 3
             }
         }
@@ -631,9 +631,9 @@
                 "prsMerged": 3
             },
             "3m": {
-                "commits": 1,
-                "prsOpened": 1,
-                "prsMerged": 1
+                "commits": 0,
+                "prsOpened": 0,
+                "prsMerged": 0
             }
         }
     },
