@@ -858,6 +858,28 @@
         }
     },
     {
+        "login": "sahilphad07-sudo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/238956568?v=4",
+        "role": "contributor",
+        "stats": {
+            "all": {
+                "commits": 0,
+                "prsOpened": 1,
+                "prsMerged": 0
+            },
+            "6m": {
+                "commits": 0,
+                "prsOpened": 1,
+                "prsMerged": 0
+            },
+            "3m": {
+                "commits": 0,
+                "prsOpened": 1,
+                "prsMerged": 0
+            }
+        }
+    },
+    {
         "login": "paramgosar13-droid",
         "avatar_url": "https://avatars.githubusercontent.com/u/260283594?v=4",
         "role": "contributor",
