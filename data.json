@@ -147,8 +147,8 @@
                 "prsMerged": 2
             },
             "3m": {
-                "commits": 1,
-                "prsOpened": 1,
+                "commits": 0,
+                "prsOpened": 0,
                 "prsMerged": 1
             }
         }
@@ -853,6 +853,28 @@
             "3m": {
                 "commits": 0,
                 "prsOpened": 0,
+                "prsMerged": 0
+            }
+        }
+    },
+    {
+        "login": "krishnasai453",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11565212?v=4",
+        "role": "contributor",
+        "stats": {
+            "all": {
+                "commits": 0,
+                "prsOpened": 1,
+                "prsMerged": 0
+            },
+            "6m": {
+                "commits": 0,
+                "prsOpened": 1,
+                "prsMerged": 0
+            },
+            "3m": {
+                "commits": 0,
+                "prsOpened": 1,
                 "prsMerged": 0
             }
         }
