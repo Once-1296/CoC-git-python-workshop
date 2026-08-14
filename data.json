@@ -125,8 +125,8 @@
                 "prsMerged": 2
             },
             "3m": {
-                "commits": 2,
-                "prsOpened": 1,
+                "commits": 0,
+                "prsOpened": 0,
                 "prsMerged": 1
             }
         }
